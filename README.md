@@ -15,4 +15,7 @@ Configurações para desenvolvimento de site:
          1.3 Comprimir a Imagem - tiny.png
 
          Entregar a imagem em formato webp
-            instalar o plugin webp express - ativar - config - webp express - ativar alter HTML - Bulk Convert - começar - save settings - save settings and force new .htaccess - limpar o cache no wp rockets se instalado - e verificar a velocidade no pagespeed.
+           * instalar o plugin webp express - ativar - config - webp express - 
+             * ativar alter HTML - Bulk Convert - começar - save settings - 
+            save settings and force new .htaccess - limpar o cache no wp rockets se instalado - 
+            verificar a velocidade no pagespeed.
